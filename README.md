@@ -1,4 +1,6 @@
-A server that returns a list of books to the BookListApp web application.
-Backend for Angular-BookListApp repository
+# BookApi
+A server that returns a list of books to the BookListApp web application.\
+The backend for [Angular-BookListApp repository](https://github.com/danielvaz46/Angular.js-BookListApp).
 
-![image](https://github.com/user-attachments/assets/7c98ca5e-98eb-4242-85fa-a4543672fceb)
+![image](https://github.com/user-attachments/assets/fedab09a-4722-48c3-8359-c5663db50b67)
+
